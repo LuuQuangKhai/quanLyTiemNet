@@ -1,0 +1,217 @@
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\GUI.exe.config
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\GUI.exe
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\GUI.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\System.Data.SqlClient.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\System.Data.SqlClient.xml
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.QuyenTaiKhoan_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.exe
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\BUS.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\DAO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\DTO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\BUS.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\DAO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\DTO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.TaiKhoan_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.NhanVien_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.DanhMuc_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.DangNhap_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.GiaoDienAdmin.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.ThongTinMay_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.DichVu_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.ThongTinThanhToan_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.HoaDon_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\Interop.RationalRose.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\Interop.rvsReporters.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\Interop.rvsRTE.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\Interop.TLI.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\EnvDTE.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\stdole.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\Microsoft.MSXML.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.May_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.GiaoDienNhanVien_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.DoiMatKhau_GUI.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.CSDL.resources
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\EntityFramework.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\bin\Debug\EntityFramework.xml
+C:\Đồ án NET\QLCuaHangInternet\Code\GUI\obj\Debug\GUI.PhieuThongKe_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\GUI.exe.config
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.exe
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.CSDL.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.DangNhap_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.DanhMuc_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.DoiMatKhau_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.GiaoDienAdmin.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.GiaoDienNhanVien_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.HoaDon_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.May_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.NhanVien_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.DichVu_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.PhieuThongKe_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.QuyenTaiKhoan_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.TaiKhoan_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.ThongTinMay_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.ThongTinThanhToan_GUI.resources
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\GUI.exe
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\GUI.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\BUS.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\DAO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\DTO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\EntityFramework.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\System.Data.SqlClient.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\BUS.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\DAO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\DTO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\EntityFramework.xml
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\System.Data.SqlClient.xml
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\DuLieuHK5\CongNgheNet\QLCuaHangInternet_Dev-Dev\Code\GUI\bin\Debug\GUI.exe.config
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\DuLieuHK5\CongNgheNet\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\DuLieuHK5\CongNgheNet\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.exe
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\DuLieuHK5\CongNgheNet\QLCuaHangInternet_Dev-Dev\Code\GUI\obj\Debug\GUI.pdb

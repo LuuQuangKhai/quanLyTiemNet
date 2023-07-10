@@ -1,0 +1,24 @@
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\BUS.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\BUS.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\DAO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\DTO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\System.Data.SqlClient.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\DAO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\DTO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\bin\Debug\System.Data.SqlClient.xml
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\obj\Debug\BUS.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\BUS\obj\Debug\BUS.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\BUS.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\BUS.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\DAO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\DTO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\System.Data.SqlClient.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\DAO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\DTO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\bin\Debug\System.Data.SqlClient.xml
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\obj\Debug\BUS.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\BUS\obj\Debug\BUS.pdb

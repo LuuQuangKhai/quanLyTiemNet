@@ -1,0 +1,20 @@
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\DAO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\DAO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\DTO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\System.Data.SqlClient.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\DTO.pdb
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\bin\Debug\System.Data.SqlClient.xml
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\obj\Debug\DAO.dll
+C:\Đồ án NET\QLCuaHangInternet\Code\DAO\obj\Debug\DAO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\DAO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\DAO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\DTO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\System.Data.SqlClient.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\DTO.pdb
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\bin\Debug\System.Data.SqlClient.xml
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\obj\Debug\DAO.dll
+C:\Users\defaultuser0.LAPTOP-POTNR7PE\OneDrive\Desktop\QLCuaHangInternet_Dev-Dev\Code\DAO\obj\Debug\DAO.pdb

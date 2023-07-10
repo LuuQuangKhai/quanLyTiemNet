@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{992C3AAE-2212-4C24-9DAD-774F6D2800E9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1537.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.1.4, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.8.4\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CSDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CSDL.Designer.cs">
+      <DependentUpon>CSDL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap_GUI.Designer.cs">
+      <DependentUpon>DangNhap_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhMuc_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DanhMuc_GUI.Designer.cs">
+      <DependentUpon>DanhMuc_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau_GUI.Designer.cs">
+      <DependentUpon>DoiMatKhau_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GiaoDienNhanVien_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienNhanVien_GUI.Designer.cs">
+      <DependentUpon>GiaoDienNhanVien_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="May_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="May_GUI.Designer.cs">
+      <DependentUpon>May_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhieuThongKe_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhieuThongKe_GUI.Designer.cs">
+      <DependentUpon>PhieuThongKe_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptThongKe.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptThongKe.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="GiaoDienAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GiaoDienAdmin.Designer.cs">
+      <DependentUpon>GiaoDienAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon_GUI.Designer.cs">
+      <DependentUpon>HoaDon_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NhanVien_GUI.Designer.cs">
+      <DependentUpon>NhanVien_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DichVu_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DichVu_GUI.Designer.cs">
+      <DependentUpon>DichVu_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuyenTaiKhoan_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuyenTaiKhoan_GUI.Designer.cs">
+      <DependentUpon>QuyenTaiKhoan_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaiKhoan_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaiKhoan_GUI.Designer.cs">
+      <DependentUpon>TaiKhoan_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKeData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ThongKeData.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinMay_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinMay_GUI.Designer.cs">
+      <DependentUpon>ThongTinMay_GUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinThanhToan_GUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinThanhToan_GUI.Designer.cs">
+      <DependentUpon>ThongTinThanhToan_GUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CSDL.resx">
+      <DependentUpon>CSDL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap_GUI.resx">
+      <DependentUpon>DangNhap_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhMuc_GUI.resx">
+      <DependentUpon>DanhMuc_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau_GUI.resx">
+      <DependentUpon>DoiMatKhau_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienAdmin.resx">
+      <DependentUpon>GiaoDienAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GiaoDienNhanVien_GUI.resx">
+      <DependentUpon>GiaoDienNhanVien_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon_GUI.resx">
+      <DependentUpon>HoaDon_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="May_GUI.resx">
+      <DependentUpon>May_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NhanVien_GUI.resx">
+      <DependentUpon>NhanVien_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DichVu_GUI.resx">
+      <DependentUpon>DichVu_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhieuThongKe_GUI.resx">
+      <DependentUpon>PhieuThongKe_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuyenTaiKhoan_GUI.resx">
+      <DependentUpon>QuyenTaiKhoan_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rptThongKe.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptThongKe.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaiKhoan_GUI.resx">
+      <DependentUpon>TaiKhoan_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinMay_GUI.resx">
+      <DependentUpon>ThongTinMay_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinThanhToan_GUI.resx">
+      <DependentUpon>ThongTinThanhToan_GUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ThongKeData.xsc">
+      <DependentUpon>ThongKeData.xsd</DependentUpon>
+    </None>
+    <None Include="ThongKeData.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ThongKeData.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ThongKeData.xss">
+      <DependentUpon>ThongKeData.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{55997ec6-9a6d-4e67-be8b-13af55edeb4c}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{7f12b7ec-b582-4e08-b2d3-03a511e8168d}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{bd2e5c0d-8cdf-40a3-a5e2-7a6b1dd1a60d}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="RationalRose">
+      <Guid>{860CC660-1C2B-11D0-B1B1-444553540000}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="rvsReporters">
+      <Guid>{AB114048-77DC-11D1-A072-006097CD9DE2}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="rvsRTE">
+      <Guid>{DDA89329-8C47-11D3-813D-00A0C938B875}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="TLI">
+      <Guid>{8B217740-717D-11CE-AB5B-D41203C10000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
